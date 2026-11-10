@@ -1,0 +1,6 @@
+{
+  "name": "IRCTC Tatkal Load Simulator",
+  "description": "Interactive capacity modeling and visualization workbench comparing IRCTC Tatkal 10 & 11 AM server crash spikes against Zone-Wise time splitting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
